@@ -4,7 +4,6 @@
 <img src="capture/Capture3 TP3.PNG">
 <img src="capture/Capture4 TP3.PNG">
 <img src="capture/Capture5 TP3.PNG">
-<img src="capture/Capture6 TP3.PNG">
-<img src="capture/Capture7 TP3.PNG">
+
 
 
